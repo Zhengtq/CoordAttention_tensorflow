@@ -65,7 +65,6 @@ https://github.com/Andrew-Qibin/CoordAttention
 
 | ![Zhengtq](https://github.com/Zhengtq) |
 | :----------------------------------------------------------: |
-| Krish |
 | [Github](https://github.com/Zhengtq) |
 | [Email](mailto:1553866519@qq.com) |
 
