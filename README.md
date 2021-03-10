@@ -5,7 +5,7 @@
   <p>
   You can use it for Non-Commercial project
   </p>
-  <a href="https://github.com/Zhengtq/CoordAttention_tensorflow/stargazers"><img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/krishdevdb/readme-template?logo=Github&amp;style=for-the-badge">
+  <a href="https://github.com/Zhengtq/CoordAttention_tensorflow/stargazers"><span class="glyphicon glyphicon-user"></span>
 </a></div>
 
 # Table Of Contents
