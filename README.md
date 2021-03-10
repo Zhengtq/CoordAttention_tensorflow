@@ -5,8 +5,7 @@
   <p>
   You can use it for Non-Commercial project
   </p>
-  <iframe src="https://ghbtns.com/github-btn.html?user=Zhengtq&repo=
-  CoordAttention_tensorflow&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+
 </div>
 
 # Table Of Contents
