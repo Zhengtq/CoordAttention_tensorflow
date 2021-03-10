@@ -52,7 +52,7 @@ Very simple
 #### Just Clone 
 
 ```bash
-https://github.com/Andrew-Qibin/CoordAttention
+git clone git@github.com:Zhengtq/CoordAttention_tensorflow.git
 ```
 
 
