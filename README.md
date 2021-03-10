@@ -58,7 +58,7 @@ https://github.com/Andrew-Qibin/CoordAttention
 
     
 
-> Know Any Other Solutions Or Have Any More Ideas Kindly. Give A [Issue][issues] Or If Possible Submit A [Pull Request](https://github.com/Zhengtq/BFQ/pulls)
+> Know Any Other Solutions Or Have Any More Ideas Kindly. Give A [Issue][issues] Or If Possible Submit A [Pull Request](https://github.com/Zhengtq/CoordAttention_tensorflow/pulls)
 
 
 # Authors
