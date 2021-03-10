@@ -5,9 +5,9 @@
   <p>
   You can use it for Non-Commercial project
   </p>
-  <a href="https://github.com/Zhengtq/CoordAttention_tensorflow/stargazers"><iframe src="https://ghbtns.com/github-btn.html?user=Zhengtq&repo=
+  <iframe src="https://ghbtns.com/github-btn.html?user=Zhengtq&repo=
   CoordAttention_tensorflow&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
-</a></div>
+</div>
 
 # Table Of Contents
 
