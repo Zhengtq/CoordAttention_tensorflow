@@ -3,7 +3,7 @@
   <h1>CoordAttention_tensorflow</h1>
   <h5>Unofficial implementation of "Coordinate Attention for Efficient Mobile Network Design".</h5>
   <p>
-  You can use it for Unofficial project
+  You can use it for Non-Commercial project
   </p>
   <a href="https://github.com/Zhengtq/CoordAttention_tensorflow/stargazers"><img alt="GitHub Repo Stars" src="https://img.shields.io/github/stars/krishdevdb/readme-template?logo=Github&amp;style=for-the-badge">
 </a></div>
